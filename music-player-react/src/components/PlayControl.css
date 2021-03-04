@@ -1,0 +1,9 @@
+
+.btn {
+    justify-content: space-evenly;
+    margin: 10px;
+}
+
+#controls {
+    background: rgb(53, 58, 63);
+}
